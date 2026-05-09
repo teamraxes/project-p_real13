@@ -1,0 +1,32 @@
+{
+  "schema_version": "3.1",
+  "project_id": "p_real13",
+  "style_dimensions": {
+    "formality": 0.55,
+    "density": 0.40,
+    "decoration": 0.15,
+    "energy": 0.45,
+    "era_reference": "2024-editorial",
+    "color_temperature": "warm"
+  },
+  "color_tokens": {
+    "primary": "#0A0A0A",
+    "surface": "#FAF7F0",
+    "text": "#1F1B16",
+    "accent_secondary": "#EB0000"
+  },
+  "typography": {
+    "display": {
+      "family": "Cormorant Garamond",
+      "weights": [400, 500, 700],
+      "license": "google-fonts"
+    },
+    "body": {
+      "family": "Inter",
+      "weights": [400, 500, 700],
+      "license": "google-fonts"
+    }
+  },
+  "composition": {},
+  "image_briefs": []
+}

@@ -1,0 +1,27 @@
+{
+  "project_id": "p_real13",
+  "tariff": "landing",
+  "created_at": "2026-05-08T09:00:00Z",
+  "client": {
+    "name": "Chain Test",
+    "telegram": "@chaintest",
+    "email": "test@example.com"
+  },
+  "business": {
+    "niche": "creative-agency",
+    "stage": "launching",
+    "target_audience": "V6.2.9 D5.2 mock chain test"
+  },
+  "branding": {
+    "tone_keywords": ["clean", "test"],
+    "no_no_keywords": []
+  },
+  "content": {
+    "main_message": "Mock chain test message",
+    "cta_goal": "request_demo"
+  },
+  "deployment": {
+    "hosting_preference": "manual"
+  },
+  "deadlines": {}
+}
